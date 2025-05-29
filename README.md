@@ -12,13 +12,13 @@ Gerber and Drill files can be found in a ZIP file here:
 
 ## 3. Construction
 
-| Component                       | Quantity |
-|---------------------------------|----------|
-| [Infrared Breakbam Sensors](https://www.adafruit.com/product/2168)       | 5        |
-| 10KΩ Resistor                   | 50       | https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB103V/3070742 |
-| 150Ω Resistor                   | 50       | https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB151V/3070809 |
-| BNC Jack                        | 4        | https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227161-1/811142 | 
-| I2C OLED                        | 5        | https://a.co/d/1eVYdSG |
+| Component                                                                                                                          | Quantity |
+|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Infrared Breakbam Sensors](https://www.adafruit.com/product/2168)                                                                 | 5        |
+| [10KΩ Resistor](https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB103V/3070742)                   | 50       |
+| [150Ω Resistor](https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-8AEB151V/3070809)                   | 50       |
+| [BNC Jack](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/5227161-1/811142)                             | 4        | 
+| [I2C OLED](https://a.co/d/1eVYdSG)                                                                                                 | 5        | 
 
 
 ### 4. Task Operation
