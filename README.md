@@ -17,8 +17,8 @@ Gerber and Drill files can be found in a ZIP file here:
 Components
 - Infrared Breakbam Sensors (https://www.adafruit.com/product/2168)
 - Resistors
--   10KΩ
--   150Ω
+  - 10KΩ
+  - 150Ω
 
 
 
